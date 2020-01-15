@@ -1,0 +1,22 @@
+SEÇIM EKRANI
+MARA-MATNR
+MARA-MTART
+MARA-MATKL
+
+LISTE EKRANI 1
+MARA-MATNR
+MARA-MTART
+MARA-MATKL
+
+Ekrana bir buton ekleyelim. 'Industry Sector' olsun adi.
+Bu butona basinca ekrana information mesaji olarak 
+'Seçtiginiz malzeme T137T-MBBEZ sektöründe kullanilmaktadir' mesaji versin.
+Bu alana su sekilde erisebiliriz; mara-MBRSH = T137T-MBRSH
+
+Kullanici malzemeye çift tiklarsa LISTE EKRANI 2 ekrani açilsin
+LISTE 2 ekrani MARC(Üretim yeri verileri) tablosunun bütün alanlarindan olussun
+Çift tikladigim satirdaki malzeme no ile bu tabloya gidebiliriz
+
+Kullanici herhangi bir satira çift tiklarsa LISTE EKRANI 3 ekrani açilsin
+LISTE 3 ekrani MARD(Depo yeri verileri) tablosunun bütün alanlarindan olussun
+Tikladigim satirdaki malzeme no ve üretim yeri ile bu tabloya gidebiliriz
